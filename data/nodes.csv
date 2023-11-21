@@ -1,8 +1,135 @@
-name,affiliations,author_id,cited_by,interests,author_id,cited_by,interests
-David La Barbera,Università Degli Studi Di Udine,MvN8wKEAAAAJ,138,Computer Science,MvN8wKEAAAAJ,139,Computer Science
-Michael Soprano,Postdoctoral Research Fellow at the University of Udine,ocK0qRUAAAAJ,206,Crowdsourcing,ocK0qRUAAAAJ,210,Crowdsourcing
-Kevin Roitero,University of Udine,1xd52jMAAAAJ,688,Information Retrieval,1xd52jMAAAAJ,690,Information Retrieval
-Stefano Mizzaro,Full professor of Computer Science and Information Technology,2wvJC6IAAAAJ,4732,misinformation and fake news detection,2wvJC6IAAAAJ,4739,misinformation and fake news detection
-Damiano Spina,"School of Computing Technologies, RMIT University",sLzYrNYAAAAJ,2480,Human-AI Fact-checking,sLzYrNYAAAAJ,2483,Human-AI Fact-checking
-Gianluca Demartini,Associate Professor at the University of Queensland,PCAiILsAAAAJ,5339,Crowdsourcing,PCAiILsAAAAJ,5348,Crowdsourcing
-Eddy Maddalena,"Università degli Studi di Udine, Italy",egHDpFkAAAAJ,553,Web science,egHDpFkAAAAJ,553,Web science
+name,affiliations,author_id,cited_by,interests
+David La Barbera,Università Degli Studi Di Udine,MvN8wKEAAAAJ,138,Computer Science
+Michael Soprano,Postdoctoral Research Fellow at the University of Udine,ocK0qRUAAAAJ,206,Crowdsourcing
+Kevin Roitero,University of Udine,1xd52jMAAAAJ,688,Information Retrieval
+Stefano Mizzaro,Full professor of Computer Science and Information Technology,2wvJC6IAAAAJ,4732,misinformation and fake news detection
+Damiano Spina,"School of Computing Technologies, RMIT University",sLzYrNYAAAAJ,2480,Human-AI Fact-checking
+Gianluca Demartini,Associate Professor at the University of Queensland,PCAiILsAAAAJ,5339,Crowdsourcing
+Eddy Maddalena,"Università degli Studi di Udine, Italy",egHDpFkAAAAJ,553,Web science
+Kevin Roitero,University of Udine,1xd52jMAAAAJ,690,Information Retrieval
+Stefano Mizzaro,Full professor of Computer Science and Information Technology,2wvJC6IAAAAJ,4739,misinformation and fake news detection
+Gianluca Demartini,Associate Professor at the University of Queensland,PCAiILsAAAAJ,5348,Crowdsourcing
+Damiano Spina,"School of Computing Technologies, RMIT University",sLzYrNYAAAAJ,2483,Human-AI Fact-checking
+Michael Soprano,Postdoctoral Research Fellow at the University of Udine,ocK0qRUAAAAJ,210,Crowdsourcing
+Vincenzo Della Mea,"Associate Professor of Medical Informatics, University of Udine",BF3B4KAAAAAJ,2885,biomedical classifications and ontologies
+Davide Ceolin,"Tenured Researcher, CWI Amsterdam",y8Jy518AAAAJ,497,Provenance
+Tim Draws,OTTO,UTMHOZMAAAAJ,1199,Research Methods
+Joel Mackenzie,The University of Queensland,3jQ1Zh4AAAAJ,640,Information Systems
+Kevin Roitero,University of Udine,1xd52jMAAAAJ,690,Information Retrieval
+Stefano Mizzaro,Full professor of Computer Science and Information Technology,2wvJC6IAAAAJ,4739,misinformation and fake news detection
+Gianluca Demartini,Associate Professor at the University of Queensland,PCAiILsAAAAJ,5348,Crowdsourcing
+Damiano Spina,"School of Computing Technologies, RMIT University",sLzYrNYAAAAJ,2483,Human-AI Fact-checking
+Davide Ceolin,"Tenured Researcher, CWI Amsterdam",y8Jy518AAAAJ,497,Provenance
+David La Barbera,Università Degli Studi Di Udine,MvN8wKEAAAAJ,139,Computer Science
+Vincenzo Della Mea,"Associate Professor of Medical Informatics, University of Udine",BF3B4KAAAAAJ,2885,biomedical classifications and ontologies
+Beatrice Portelli,University of Udine,HQZd6wsAAAAJ,143,
+Giuseppe Serra,"Associate Professor of Computer Science, University of Udine",xz1J-xQAAAAJ,5330,Multimedia Forensics
+Shaoyang Fan,The University of Queensland,uF87D5kAAAAJ,80,Data Mining
+Giuseppe Primiero,"Department of Philosophy, University of Milan",srKA534AAAAJ,1119,Philosophy of Computer Science
+Jan Wielemaker,"Researcher in Computer Science, VU University Amsterdam",7J1vJdEAAAAJ,5055,Semantic web
+Tim Draws,OTTO,UTMHOZMAAAAJ,1199,Research Methods
+Alessandro Checco,Computer Science Department - University of Rome La Sapienza,crhkrNcAAAAJ,900,Wireless Networks
+Afshin Rahimi,Applied Scientist @ Amazon,WhPw2I0AAAAJ,1291,Natural Language Processing
+Andrea Brunello,Università degli Studi di Udine,GuteS00AAAAJ,280,databases
+Tetsuya Sakai,Waseda University,vi56gz4AAAAJ,6614,human computer interaction
+Eddy Maddalena,"Unita' di Gastroenterologia ed Endoscopia Digestiva, ospedale Sandro Pertini, Roma",j8YC3TAAAAAJ,1742,malattie panc
+Stefano Mizzaro,Full professor of Computer Science and Information Technology,2wvJC6IAAAAJ,4739,misinformation and fake news detection
+Gianluca Demartini,Associate Professor at the University of Queensland,PCAiILsAAAAJ,5348,Crowdsourcing
+Michael Soprano,Postdoctoral Research Fellow at the University of Udine,ocK0qRUAAAAJ,210,Crowdsourcing
+Eddy Maddalena,"Unita' di Gastroenterologia ed Endoscopia Digestiva, ospedale Sandro Pertini, Roma",j8YC3TAAAAAJ,1742,malattie panc
+Vincenzo Della Mea,"Associate Professor of Medical Informatics, University of Udine",BF3B4KAAAAAJ,2885,biomedical classifications and ontologies
+Damiano Spina,"School of Computing Technologies, RMIT University",sLzYrNYAAAAJ,2483,Human-AI Fact-checking
+David La Barbera,Università Degli Studi Di Udine,MvN8wKEAAAAJ,139,Computer Science
+Alessandro Checco,Computer Science Department - University of Rome La Sapienza,crhkrNcAAAAJ,900,Wireless Networks
+Beatrice Portelli,University of Udine,HQZd6wsAAAAJ,143,
+Mihai Horia Popescu,PhD student,7VIbKlEAAAAJ,45,Explainable Artificial Intelligence (XAI)
+Davide Ceolin,"Tenured Researcher, CWI Amsterdam",y8Jy518AAAAJ,497,Provenance
+Falk Scholer,"School of Computing Technologies, RMIT University",qOLjlqsAAAAJ,4639,dat
+J. Shane Culpepper,The University of Queensland,OFlBSEEAAAAJ,3142,Machine Learning
+Andrea Brunello,Università degli Studi di Udine,GuteS00AAAAJ,280,databases
+Shaoyang Fan,The University of Queensland,uF87D5kAAAAJ,80,Data Mining
+Yunke Qu,The University of Queensland,oup2M48AAAAJ,11,Information Retrieval
+Mark Sanderson,"Visiting Professor, St. George's University of London",hTob0R4AAAAJ,15648,nucleic acid interacting proteins
+Rishabh Mehrotra,"Director - Machine Learning, ShareChat",X9BKWWoAAAAJ,2260,Marketplace
+Mounia Lalmas,Spotify,wAr9G5sAAAAJ,10811,Personalization.
+Tim Draws,OTTO,UTMHOZMAAAAJ,1199,Research Methods
+Kevin Roitero,University of Udine,1xd52jMAAAAJ,690,Information Retrieval
+Vincenzo Della Mea,"Associate Professor of Medical Informatics, University of Udine",BF3B4KAAAAAJ,2885,biomedical classifications and ontologies
+Gianluca Demartini,Associate Professor at the University of Queensland,PCAiILsAAAAJ,5348,Crowdsourcing
+Eddy Maddalena,"Unita' di Gastroenterologia ed Endoscopia Digestiva, ospedale Sandro Pertini, Roma",j8YC3TAAAAAJ,1742,malattie panc
+Luca Vassena,"Research Associate, SUPSI",HZl2KP0AAAAJ,419,Interaction Design
+Luca Di Gaspero,"Associate Professor of Information Technology, University of Udine",fIES7P0AAAAJ,3657,Metaheuristics
+Damiano Spina,"School of Computing Technologies, RMIT University",sLzYrNYAAAAJ,2483,Human-AI Fact-checking
+Michael Soprano,Postdoctoral Research Fellow at the University of Udine,ocK0qRUAAAAJ,210,Crowdsourcing
+Carlo Tasso,Full Professor in Computer Science,ITxRmxIAAAAJ,3641,Semantic Web
+Paolo Coppola,"Associate Professor of Computer Science, University of Udine",P15-SKkAAAAJ,534,mobile computing
+Falk Scholer,"School of Computing Technologies, RMIT University",qOLjlqsAAAAJ,4639,dat
+Omar Alonso,Amazon,VvLUqbkAAAAJ,4292,Knowledge graphs
+Mark Sanderson,"Visiting Professor, St. George's University of London",hTob0R4AAAAJ,15648,nucleic acid interacting proteins
+David La Barbera,Università Degli Studi Di Udine,MvN8wKEAAAAJ,139,Computer Science
+Elena Nazzi,"PhD student in Interaction Design, IT University of Copenhagen",krOJM2sAAAAJ,175,Embodied Interaction
+Giorgio Brajnik,"Associate Professor of User Centered Development, Computer science, University of Udine …",a-qHaRIAAAAJ,3580,Model-based Engineering of User Interfaces
+Fabio Crestani,"Faculty of Informatics, Universitá della Svizzera Italiana (USI), Lugano, Switzerland",EoGBsiMAAAAJ,10230,Digital Libraries
+Claudio Carpineto,Fondazione Ugo Bordoni,MnwqYB8AAAAJ,5533,data privacy
+Marco Pavan,"PhD in Computer Science, University of Udine",-UudVuUAAAAJ,112,Artificial intelligence
+Andrew Turpin,Lions Eye Institute and Curtin University,lCZblDwAAAAJ,6881,Data Analysis
+Mark Sanderson,"Visiting Professor, St. George's University of London",hTob0R4AAAAJ,15648,nucleic acid interacting proteins
+Falk Scholer,"School of Computing Technologies, RMIT University",qOLjlqsAAAAJ,4639,dat
+Julio Gonzalo,"Full professor of Computer Science, UNED",opFCmpYAAAAJ,6081,Artificial Intelligence
+Lawrence Cavedon,"School of Computing Technologies, RMIT University",ZAEiiEUAAAAJ,5893,biomedical text mining
+Johanne R. Trippas,"Vice-Chancellor's Research Fellow, School of Computing Technologies, RMIT University",x483lssAAAAJ,975,Human Computer Interaction
+Stefano Mizzaro,Full professor of Computer Science and Information Technology,2wvJC6IAAAAJ,4739,misinformation and fake news detection
+Gianluca Demartini,Associate Professor at the University of Queensland,PCAiILsAAAAJ,5348,Crowdsourcing
+Jorge Carrillo-de-Albornoz,"Researcher in Computer Science, UNED",8yHMQqoAAAAJ,1385,Natural Language Processing
+Kevin Roitero,University of Udine,1xd52jMAAAAJ,690,Information Retrieval
+Maarten de Rijke,University of Amsterdam & ICAI,AVDkgFIAAAAJ,36736,Information retrieval
+Arkaitz Zubiaga,Queen Mary University of London,IUb-xxMAAAAJ,6595,Computational Journalism
+Hideo Joho,"Professor, Institute of Library, Information and Media Science, University of Tsukuba",8W8gwisAAAAJ,3882,User
+Edgar Meij,Bloomberg,vb6YKF0AAAAJ,3136,Machine Learning
+Flora Salim,"Professor, Cisco Chair of Digital Transport, Computer Science and Engineering, UNSW",Yz35RSYAAAAJ,3926,Mobility Data Science
+Michael Soprano,Postdoctoral Research Fellow at the University of Udine,ocK0qRUAAAAJ,210,Crowdsourcing
+W. Bruce Croft,"Distinguished Professor Emeritus, University of Massachusetts Amherst",ArV74ZMAAAAJ,64163,Information Retrieval
+Víctor Fresno,Associate Professor of Computer Science (UNED),X_95ZxEAAAAJ,1555,Compositional Distributional Semantics
+Raquel Martinez,Neuroscientist. Lecturer in Genetics. University of Zaragoza.,a1H9MxgAAAAJ,11781,… Lateral Sclerosis. Spinal and Bulbar Muscular …
+Yongli Ren,"School of Computing Technologies, RMIT University",ZZl7bW8AAAAJ,1268,Data Analysis
+Ryen W. White,"General Manager, Deputy Lab Director, Microsoft Research",U69fiZMAAAAJ,20308,Health
+Philippe Cudre-Mauroux,"Full Professor (Computer Science), U. of Fribourg–Switzerland",NpccCXwAAAAJ,9301,Emergent Semantics
+Djellel Difallah,"Assistant Professor, Computer Science, NYU Abu Dhabi",K5d-OHEAAAAJ,3090,Big Data systems
+Kevin Roitero,University of Udine,1xd52jMAAAAJ,690,Information Retrieval
+Stefano Mizzaro,Full professor of Computer Science and Information Technology,2wvJC6IAAAAJ,4739,misinformation and fake news detection
+Alessandro Checco,Computer Science Department - University of Rome La Sapienza,crhkrNcAAAAJ,900,Wireless Networks
+Ujwal Gadiraju,"Assistant Professor, Web Information Systems, Delft University of Technology",FX7BF6QAAAAJ,3251,Conversational Interfaces
+Tereza Iofciu,L3S,wQgkh-4AAAAJ,1213,data science
+Michele Catasta,VP of AI at Replit,ZxfOSWMAAAAJ,5955,Data Science
+Wolfgang Nejdl,"Professor of Computer Science, Leibniz Universität Hannover, L3S Research Center …",LC62bdYAAAAJ,25438,Semantic Technologies
+Lei Han,"Professor of Physics, Hong Kong Baptist University",kYTmdEMAAAAJ,6646,Quantitative Modeling
+Shazia Sadiq,The University of Queensland,1Jo0EmIAAAAJ,10225,Service Systems
+Peter A Bath,University of Sheffield,-ExSN_IAAAAJ,7120,online sharing
+Damiano Spina,"School of Computing Technologies, RMIT University",sLzYrNYAAAAJ,2483,Human-AI Fact-checking
+"Dr. Wasim Ahmed, PhD",Senior Lecturer in Digital Business,JduIcrAAAAAJ,2167,Health Informatics
+Eddy Maddalena,"Unita' di Gastroenterologia ed Endoscopia Digestiva, ospedale Sandro Pertini, Roma",j8YC3TAAAAAJ,1742,malattie panc
+Karl Aberer,"Professor of Computer and Communication Sciences, EPFL",ifU81ikAAAAJ,23824,Semantic Web
+Alberto Tonon,"PhD Student, University of Fribourg",zBYcXUMAAAAJ,467,Semantic Web
+Michael Soprano,Postdoctoral Research Fellow at the University of Udine,ocK0qRUAAAAJ,210,Crowdsourcing
+Laura Sbaffi,"Senior Lecturer, Information School, University of Sheffield",TMKfR4AAAAAJ,3378,information literacy
+Claudiu S. Firan,,SRc8aowAAAAJ,1739,
+Stefano Mizzaro,Full professor of Computer Science and Information Technology,2wvJC6IAAAAJ,4739,misinformation and fake news detection
+Kevin Roitero,University of Udine,1xd52jMAAAAJ,690,Information Retrieval
+Gianluca Demartini,Associate Professor at the University of Queensland,PCAiILsAAAAJ,5348,Crowdsourcing
+Alessandro Checco,Computer Science Department - University of Rome La Sapienza,crhkrNcAAAAJ,900,Wireless Networks
+Elena Simperl,"Professor of computer science, King's College London, United Kingdom",xB7s3wgAAAAJ,6993,human computation
+Falk Scholer,"School of Computing Technologies, RMIT University",qOLjlqsAAAAJ,4639,dat
+Lei Han,"Professor of Physics, Hong Kong Baptist University",kYTmdEMAAAAJ,6646,Quantitative Modeling
+Andrew Turpin,Lions Eye Institute and Curtin University,lCZblDwAAAAJ,6881,Data Analysis
+Ujwal Gadiraju,"Assistant Professor, Web Information Systems, Delft University of Technology",FX7BF6QAAAAJ,3251,Conversational Interfaces
+Cristina Sarasua,University of Zurich,i_2lvZwAAAAJ,767,Knowledge Graphs
+Luis-Daniel Ibáñez,University of Southampton,Vf-AkkUAAAAJ,690,Update Exchange
+Vincenzo Della Mea,"Associate Professor of Medical Informatics, University of Udine",BF3B4KAAAAAJ,2885,biomedical classifications and ontologies
+Marco Basaldella,Amazon,SRvx2QoAAAAJ,518,
+Mattia Zeni,"Databricks, TomTom, IBM Research, University of Trento, Create-net",DL18RZEAAAAJ,608,Privacy-Aware Machine Learning
+Dante Degl'Innocenti,Datamantix,Ay6L7NsAAAAJ,117,Machine Learning
+Pavlos Vougiouklis,Huawei Technologies,9J7YeR0AAAAJ,576,
+Jonathon Hare,"NOAA Fisheries, Northeast Fisheries Science Center",d_HvmVsAAAAJ,12279,management
+Carlo Alberto Beltrami,"Professore, Università di Udine",EZrMWWMAAAAJ,18388,cellule staminali
+Richard Gomer,"Professor of Biology, Texas A&M University",z1YBrC4AAAAJ,10316,cell density sensing
+Davide Ceolin,"Tenured Researcher, CWI Amsterdam",y8Jy518AAAAJ,497,Provenance
